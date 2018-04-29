@@ -6,3 +6,9 @@ Contains
 3. Set
 4. Tree 
 5. List
+
+# Usages
+Just import the files to netbeans or eclipse
+
+# Run
+download and run the DataStructuresGui.jar file
