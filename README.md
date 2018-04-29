@@ -6,12 +6,13 @@ The solution is developed using the Java programming language and the AWT/Swing 
 
 The instructional tool takes the form of a typical desktop GUI type application. 
 
-Following are the five struture are used
-1.Stack
-2.Tree
-3.Set
-4.List
-5.Queue
+Following are the five struture are used.
+
+1. Stack
+2. Tree
+3. Set
+4. List
+5. Queue
 
 # Usages
 Just import the files to netbeans or eclipse
